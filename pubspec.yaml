@@ -1,0 +1,22 @@
+name: meal_app
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.0.0
+  sqflite: ^2.0.0
+  dio: ^5.0.0
+  intl: ^0.18.0
+  flutter_local_notifications: ^12.0.0
+  firebase_core: ^2.4.0
+  firebase_messaging: ^14.1.0
+  shared_preferences: ^2.0.0
+  shimmer: ^2.0.0
+  google_fonts: ^2.1.0
+  uuid: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
